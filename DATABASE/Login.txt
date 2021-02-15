@@ -1,0 +1,14 @@
+Sistem Informasi Pemesanan Makanan Online / Catering
+
+Login admin: localhost/NAMAFOLDER/admin/login.php
+Login user: localhost/NAMAFOLDER/login.php
+
+admin
+user: admin@gmail.com
+pas: admin
+
+user:
+user: user@gmail.com
+pas: user
+
+CTT: User dapat melakukan pendaftaran akun sendiri.
